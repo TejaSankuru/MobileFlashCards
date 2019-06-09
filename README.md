@@ -50,5 +50,5 @@ This application could certainly be enhanced (such as enabling deletion support 
 | Platform | Tested | Notes | 
 |:---------|:-------|:------|
 | iOS | :white_check_mark: | | 
-| Android | :x: | @irishbryan currently experiencing android simulator problems | 
+| Android | :x: |  | 
 # MobileFlashCards
